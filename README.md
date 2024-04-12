@@ -46,9 +46,9 @@ xor g4(sum,w1,cin);
 or g5(cout,w2,w3);
 
 endmodule
+
+![image](https://github.com/mattikuravasowmya/FULL_ADDER/assets/161432676/0a4a2e8f-2971-4be8-97b6-c7e66b29198c)
 # Result:
 Thus the verilog program for Full adder has been simulated and verified successfully.
 
-
-![image](https://github.com/mattikuravasowmya/FULL_ADDER/assets/161432676/0a4a2e8f-2971-4be8-97b6-c7e66b29198c)
 
